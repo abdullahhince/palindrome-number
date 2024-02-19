@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\soru 5 algoritma\soru 5 algoritma\bin\Debug\soru 5 algoritma.exe.config
+C:\Users\User\source\repos\soru 5 algoritma\soru 5 algoritma\bin\Debug\soru 5 algoritma.exe
+C:\Users\User\source\repos\soru 5 algoritma\soru 5 algoritma\bin\Debug\soru 5 algoritma.pdb
+C:\Users\User\source\repos\soru 5 algoritma\soru 5 algoritma\obj\Debug\soru 5 algoritma.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\soru 5 algoritma\soru 5 algoritma\obj\Debug\soru 5 algoritma.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\soru 5 algoritma\soru 5 algoritma\obj\Debug\soru 5 algoritma.exe
+C:\Users\User\source\repos\soru 5 algoritma\soru 5 algoritma\obj\Debug\soru 5 algoritma.pdb
